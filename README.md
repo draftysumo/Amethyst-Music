@@ -1,5 +1,5 @@
 # Harmony Music 2.0
-A multi-platform music streaming app built with longevity & stability in mind.
+A multi-platform-pulling music streaming app built with longevity & stability in mind.
 
 Disclaimer: This project is not affiliated with the original Harmony Music that it is inspired by (https://github.com/anandnet/Harmony-Music)
 
