@@ -4,20 +4,19 @@ A multi-platform-pulling music streaming app built with longevity & stability in
 Disclaimer: This project is not affiliated with the original Harmony Music that it is inspired by (https://github.com/anandnet/Harmony-Music)
 
 # Features
-- Stream songs from YouTube / YouTube Music with Spotify & SoundCloud fallback for unavailable tracks
-  (Spotify playback requires a Spotify Premium account)
-- On-the-fly song caching during playback
-- Background music support
-- Playlist creation & management
-- Streaming quality control
-- Import Songs / Playlists / Albums / Artists via sharing from YouTube / YouTube Music
-- Dynamic theme based on album art
-- Equalizer support
-- Android Auto support
-- Synced & plain lyrics support
-- Sleep timer
-- No advertisements
-- No login required
+* Stream music from **YouTube / YouTube Music**, with **Spotify** and **SoundCloud** fallback *(Spotify Premium required)*
+* Supports **background playback**
+* **On-the-fly caching** of currently playing tracks
+* Adjustable **streaming quality**
+* Create and manage **playlists**
+* Import **songs, playlists, albums, and artists** via sharing from YouTube / YouTube Music
+* **Dynamic theming** based on album artwork
+* **Synced and plain lyrics** support
+* Built-in **sleep timer**
+* **Equalizer** support
+* **Android Auto** integration
+* 100% **ad-free experience**
+* **No login required**
 
 # Troubleshoot
 If you're facing issues with notification controls or music playback being stopped by system optimization,
