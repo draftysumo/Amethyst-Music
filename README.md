@@ -1,7 +1,8 @@
 # Harmony Music 2.0
 A multi-platform-pulling music streaming app built to be the best Spotify/YT Music alternative on Android.
 
-Disclaimer: This project is not affiliated with the original Harmony Music that it is inspired by (https://github.com/anandnet/Harmony-Music)
+Disclaimer: This project is not affiliated with the original Harmony Music that it is inspired by (https://github.com/anandnet/Harmony-Music), this is also
+not a Fork but an entirely new project built using the same tools as the original.
 
 # Features
 * Stream music from **YouTube / YouTube Music**, with **Spotify** and **SoundCloud** fallback *(Spotify Premium required)*
