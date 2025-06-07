@@ -12,7 +12,7 @@ not a Fork but an entirely new project built using the same tools as the origina
 * Create and manage **playlists**
 * Import **songs, playlists, albums, and artists** via sharing from YouTube / YouTube Music
 * **Dynamic theming** based on album artwork
-* **"Offine Space" mode that uses cached songs for the FYP**
+* **Offine Space** mode that uses cached songs for the FYP
 * **Synced and plain lyrics** support
 * Built-in **sleep timer**
 * **Equalizer** support
