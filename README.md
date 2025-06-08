@@ -16,7 +16,7 @@ A multi-platform-pulling music streaming app built to be the best Spotify/YT Mus
 * **Android Auto** integration
 * 100% **ad-free experience**
 * **No login required**
-* **Import data** from alternate YTM frontends (like Kreate, SimpMusic & ViTune)
+* **Import data** from alternate YTM frontends
 
 # Troubleshoot
 If you're facing issues with notification controls or music playback being stopped by system optimization,
@@ -47,7 +47,3 @@ In no event shall the author of this software be liable for any special, consequ
 incidental, or indirect damages whatsoever (including, without limitation, any financial loss)
 arising out of the use or inability to use this product, even if the author has been advised
 of the possibility of such damages or known defects.
-
-# Special Thanks
-- anandnet - Inspiration & original UI design (https://github.com/anandnet/Harmony-Music)
-- Fast4X - Inspiration via the amazing app RiMusic (https://github.com/fast4x/RiMusic)
