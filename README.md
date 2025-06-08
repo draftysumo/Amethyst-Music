@@ -38,7 +38,7 @@ This project is not sponsored, affiliated with, funded, authorized, or endorsed 
 
 Any songs, content, or trademarks used in this app are the intellectual property of their respective owners.
 
-Harmony Music 2.0 is not responsible for any infringement of copyright or other intellectual property rights
+Amethyst Music is not responsible for any infringement of copyright or other intellectual property rights
 that may occur through the use of songs or content accessed via this app.
 
 This software is provided "as-is", without any warranty, responsibility, or liability.
