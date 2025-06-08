@@ -1,8 +1,5 @@
-# Harmony Music 2.0
+# Amethyst Music
 A multi-platform-pulling music streaming app built to be the best Spotify/YT Music alternative on Android.
-
-FYI: This project is not affiliated with the original Harmony Music that it is inspired by (https://github.com/anandnet/Harmony-Music), this is also
-not a Fork but an entirely new project built using the same tools as the original.
 
 # Features
 * Stream music from **YouTube / YouTube Music**, with **Spotify** and **SoundCloud** fallback *(Spotify Premium required)*
@@ -12,13 +9,14 @@ not a Fork but an entirely new project built using the same tools as the origina
 * Create and manage **playlists**
 * Import **songs, playlists, albums, and artists** via sharing from YouTube / YouTube Music
 * **Dynamic theming** based on album artwork
-* **Offine Space** mode that uses cached songs for the FYP
+* **Offine Space** that uses cached songs for the home tab
 * **Synced and plain lyrics** support
 * Built-in **sleep timer**
 * **Equalizer** support
 * **Android Auto** integration
 * 100% **ad-free experience**
 * **No login required**
+* **Import data** from alternate YTM frontends (like Kreate, SimpMusic & ViTune)
 
 # Troubleshoot
 If you're facing issues with notification controls or music playback being stopped by system optimization,
